@@ -36,24 +36,25 @@
 <br/>  
 <br/> 
 
-## 주요 기능     
+## 주요 기능
+
 * **회원가입/로그인/내정보 관리 기능** 
-![슬라이드1](./image/loginAndMyInfo.png)
+> ![슬라이드1](./image/loginAndMyInfo.png)
 
 <br/>
 
 * **마이페이지 기능** 
-![슬라이드1](./image/mypage.png)
+> ![슬라이드1](./image/mypage.png)
 
 <br/>
 
 * **호텔예약 기능** 
-![슬라이드1](./image/hotelRe.png)
+> ![슬라이드1](./image/hotelRe.png)
 
 <br/>
 
 * **서비스예약 기능** 
-![슬라이드1](./image/serviceRe.png)
+> ![슬라이드1](./image/serviceRe.png)
 
 <br/>
 
