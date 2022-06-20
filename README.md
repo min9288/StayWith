@@ -59,7 +59,7 @@
 <br/>
 
 * **QnA 기능** 
-![슬라이드1](./image/qna.png)
+> ![슬라이드1](./image/qna.png)
 
 <br/>
 <br/>
