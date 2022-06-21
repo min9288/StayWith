@@ -30,7 +30,7 @@
 <br/>  
 <br/>    
 
-### ✔ ER 다이어그램      
+### ER 다이어그램      
 ![stayWith_db](./image/ERD.png)
 
 <br/>  
