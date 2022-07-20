@@ -9,7 +9,7 @@
 </div>
 
 > 서비스명: StayWith       
-> 개발기간: 2021.11.05 ~ 2021.11.23 (약 3주)   
+> 개발기간: 2021.11.05 ~ 2021.11.17 (약 2주)   
 
 ## 팀원 역할   
 | 이름   | 역할 | 내용                        |
@@ -61,22 +61,22 @@
 <br/>
 
 * **마이페이지 기능** 
-> ![슬라이드1](./image/mypage.png)
+> ![슬라이드2](./image/mypage.png)
 
 <br/>
 
 * **호텔예약 기능** 
-> ![슬라이드1](./image/hotelRe.png)
+> ![슬라이드3](./image/hotelRe.png)
 
 <br/>
 
 * **서비스예약 기능** 
-> ![슬라이드1](./image/serviceRe.png)
+> ![슬라이드4](./image/serviceRe.png)
 
 <br/>
 
 * **QnA 기능** 
-> ![슬라이드1](./image/qna.png)
+> ![슬라이드5](./image/qna.png)
 
 <br/>
 <br/>
