@@ -28,9 +28,26 @@
 포스트 코로나, 위드 코로나 시대로 넘어가면서 사람들에게 위축되어 있던 여행 심리가 다시 열리고 있습니다. 이런 관점에서 앞으로 수요가 많을 호텔을 주제로, 호텔 룸 이외에도 다이닝, 피트니스 같은 다양한 서비스를 실시간으로 예약할 수 있는 호텔 예약 웹 사이트입니다.
 
 <br/>  
-<br/>    
+<br/> 
 
-### ✔ ER 다이어그램      
+## 기술 스택
+
+- Java 8
+- Oracle DB
+- Ajax
+- jQuery
+- JavaScript
+- HTML/CSS
+- Servlets / JSP
+- Bootstrap
+- Apache 8.5
+- sqldeveloper (Database tool)
+- eclipse (Development tools)
+
+<br/>  
+<br/>
+
+## ER 다이어그램      
 ![stayWith_db](./image/ERD.png)
 
 <br/>  
