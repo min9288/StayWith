@@ -38,7 +38,7 @@
 - jQuery
 - JavaScript
 - HTML/CSS
-- Servlets / JSP
+- JSP
 - Bootstrap
 - Apache 8.5
 - sqldeveloper (Database tool)
